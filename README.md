@@ -126,8 +126,7 @@ https://oracleapex.com/ords/r/basheer636/employee-task-tracker/home?session=3042
 
 **D Basheeruddin**  
 Oracle PL/SQL & Oracle APEX Developer  
-
-- 📧 Email: basheer82475992@gmail.com  
+Email: basheer82475992@gmail.com  
 
 
 
